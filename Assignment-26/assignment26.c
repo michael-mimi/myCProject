@@ -1,6 +1,5 @@
 #include <stdio.h>
-#include <sys/socket.h>
-#include <netinet/in.h>
+#include <winsock.h>
 
 int main(void) {
 
